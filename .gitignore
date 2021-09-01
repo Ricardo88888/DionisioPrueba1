@@ -16,3 +16,5 @@ mvnw.cmd
 .springBeans
 .sts4-cache
 bin
+/build/
+/WebContent/META-INF/MANIFEST.MF
